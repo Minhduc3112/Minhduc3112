@@ -9,4 +9,4 @@ Minhduc3112/Minhduc3112 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhduc3112&theme=dark&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhduc3112&layout=compact)](https://github.com/Minhduc3112/github-readme-stats)
